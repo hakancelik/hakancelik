@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Science and ML Projects**
 
-- 👨‍💻 All of my projects are available at hakancelik.github.io
+- 👨‍💻 All of my projects are available at <a href="hakancelik.github.io" target="blank">
 
 <h3 align="left">Social:</h3>
 <p align="left">
